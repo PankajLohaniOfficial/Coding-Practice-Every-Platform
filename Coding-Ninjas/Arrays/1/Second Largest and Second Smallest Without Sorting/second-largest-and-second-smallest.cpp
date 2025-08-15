@@ -1,7 +1,3 @@
-#include <vector>
-#include <climits>
-using namespace std;
-
 int secondLargest(vector<int> &a, int n)
 {
     int largest = a[0];
