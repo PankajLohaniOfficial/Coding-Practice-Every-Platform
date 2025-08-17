@@ -1,49 +1,15 @@
-# 🏆 Second Largest and Second Smallest Element
+# 🧩 LeetCode Problem 26 – Remove Duplicates from Sorted Array  
 
-## 📌 Problem Statement
-
-You have been given an array `a` of `n` unique non-negative integers.  
-Find the **second largest** and **second smallest** element from the array.  
-Return the two elements (second largest and second smallest) as another array of size 2.
-
-## 📥 Example
-
-### Example 1:
-
-**Input**  
-n = 5
-a = [1, 2, 3, 4, 5]
-
-**Output**  
-[4, 2]
-
-**Explanation**:  
-The second largest element after 5 is 4, and the second smallest element after 1 is 2.
+## ❓ Problem Statement  
+Given an integer array `nums` sorted in **non-decreasing order**, remove the duplicates **in-place** such that each unique element appears only once.  
+The relative order of the elements should be kept the same.  
+Return the number of unique elements `k` of the array after removing duplicates.  
 
 ---
 
-### Example 2:
+## 🚀 Language Used 
 
-**Input**
-
-n = 4
-a = [3, 4, 5, 2]
-
-**Output**
-
-[4, 3]
-
-**Explanation**:  
-The second largest element after 5 is 4, and the second smallest element after 2 is 3.
-
----
-
-## 🔗 Problem Link
-
-[Second Largest Number – Coding Ninjas (Code360)](https://www.naukri.com/code360/problems/second-largest-number_13762781)
-
----
-
-## 👤 My Coding Ninjas Profile
-
-[**Pankaj Lohani** – Coding Ninjas (Code360)](https://www.naukri.com/code360/profile/pankajlohaniuk)
+<p align="center">
+  <a href="#-c-solution">
+    <img src="https://img.shields.io/badge/C++%20Solution-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Solution"/>
+  </a>
