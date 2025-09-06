@@ -1,11 +1,12 @@
-# 📚 DSA Practice Repository
+# 📚 DSA , SQL , CP Repository 
 
-Welcome to my **DSA Practice Repository**! 🚀  
+Welcome to my **DSA , SQL , CP Practice Repository**! 🚀  
 Here, I upload my solutions to Data Structures & Algorithms problems from various platforms like:
 
 - **LeetCode**
 - **GeeksforGeeks (GFG)**
 - **Codeforces**
+- **CodeChef**
 - **Coding Ninjas (Code360)**  
   …and more!
 
@@ -21,5 +22,5 @@ In Future i will do using Python. and many more...
 
 ## 🌟 Profile Links
 
-🔗 **LeetCode**: [PankajLohaniOfficial](https://leetcode.com/u/pankajlohaniofficial/)  
+🔗 **LeetCode**: [PankajLohaniOfficial](https://leetcode.com/u/pankajlohani_3/)  
 🔗 **Coding Ninjas (Code360)**: [pankajlohaniuk](https://www.naukri.com/code360/profile/pankajlohaniuk)
