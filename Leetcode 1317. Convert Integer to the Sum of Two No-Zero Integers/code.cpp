@@ -4,6 +4,7 @@ public:
     bool isNoZero(int num)
     { // yh hamare number ko check karne liy kam ayga ki woh 0 hai ya nhi .
         while (num > 0)
+            
         {
             if (num % 10 == 0)
                 return false;
