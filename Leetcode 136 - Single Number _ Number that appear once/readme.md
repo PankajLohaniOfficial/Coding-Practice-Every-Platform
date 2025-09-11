@@ -28,6 +28,6 @@ Output: 1
 
 - `1 <= nums.length <= 3 * 10^4`
 - `-3 * 10^4 <= nums[i] <= 3 * 10^4`
-- Each element in the array appears **twice** except for one element which appears only once.
+- Each element in the array is appearing **twice** except for one element which appears only once.
 
 ---
