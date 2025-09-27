@@ -40,7 +40,7 @@ Print a single integer — the final value of `x`.
 
 ---
 
-## 🔍 Examples
+## 🔍 Examples :
 
 ### Example 1
 
