@@ -6,7 +6,7 @@ This repository contains the solution to the **Bit++** problem from [Codeforces]
 
 ## 📖 Problem Statement
 
-The classic programming language of Bitland is Bit++.  
+The classic programming language of Bitland is Bit++ .  
 This language is peculiar because it has exactly one variable `x`. Initially, `x = 0`.
 
 There are only two possible operations:
