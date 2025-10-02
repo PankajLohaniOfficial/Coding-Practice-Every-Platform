@@ -1,4 +1,4 @@
-# 🚀 Bit++
+# 🚀 Bit++ 
 
 This repository contains the solution to the **Bit++** problem from [Codeforces](https://codeforces.com/problemset/problem/282/A).
 
