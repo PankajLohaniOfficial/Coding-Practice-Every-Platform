@@ -1,4 +1,4 @@
-# 🚀 Bit++
+# 🚀 Bit++ 
 
 This repository contains the solution to the **Bit++** problem from [Codeforces](https://codeforces.com/problemset/problem/282/A).
 
@@ -12,7 +12,7 @@ This language is peculiar because it has exactly one variable `x`. Initially, `x
 There are only two possible operations:
 
 - `++` → increases the value of `x` by **1**
-- `--` → decreases the value of `x` by **1**
+- `--` → decreases the value of `x` by **1** 
 
 Each statement in the program contains **exactly one operation** (`++` or `--`) and the variable `x`.  
 Examples of valid statements:
