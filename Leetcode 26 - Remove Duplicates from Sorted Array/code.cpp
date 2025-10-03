@@ -4,7 +4,7 @@ public:
     int removeDuplicates(vector<int> &nums)
     {
         int n = nums.size();
-        int i = 0;
+        int i = 0; // Initialize i with 0
         for (int j = 1; j < n; j++)
         {
             if (nums[j] != nums[i])
